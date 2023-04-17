@@ -18,6 +18,8 @@ To get started with our tool, follow these steps:
 
 - The Voice Interface can be customized further by adding more screens and actions as needed, allowing for a tailor-made, user-specific experience. This streamlined process simplifies Voice Interface creation and encourages users of all skill levels to engage with the technology.
 
+### Future Design:
+![alt text](https://github.com/Nijaoui-Wassim/GUI-for-VI/blob/main/FutureDesign.png)
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
